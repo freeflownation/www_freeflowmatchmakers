@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Bebas+Neue:400);
-@import url(https://fonts.googleapis.com/css?family=Hammersmith+One:400);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
+@import url(https://fonts.googleapis.com/css?family=Hammersmith+One:400);
 
 
 
@@ -23,17 +23,17 @@ body {
 }
 .display-1 {
   font-family: 'Bebas Neue', display;
-  font-size: 4.8rem;
+  font-size: 6rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 7.68rem;
+  font-size: 9.6rem;
 }
 .display-2 {
-  font-family: 'Hammersmith One', sans-serif;
-  font-size: 3rem;
+  font-family: 'Bebas Neue', display;
+  font-size: 4rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 6.4rem;
 }
 .display-4 {
   font-family: 'Hammersmith One', sans-serif;
@@ -63,14 +63,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.84rem;
-    font-size: calc( 2.33rem + (4.8 - 2.33) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.33rem + (4.8 - 2.33) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4.8rem;
+    font-size: calc( 2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.2rem;
+    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -1818,7 +1818,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rSWcpvoNPA {
-  background-image: url("../../../assets/images/jeremy-bishop-ewkxn5capa4-unsplash-2000x3000.jpeg");
+  background-image: url("../../../assets/images/o12-xk0dzsyv1ao-unsplash-2000x2758.jpeg");
 }
 .cid-rSWcpvoNPA .mbr-text,
 .cid-rSWcpvoNPA .mbr-section-btn {
@@ -1866,8 +1866,8 @@ body {
   color: #1e807f;
 }
 .cid-rSWfxkdIQI {
-  padding-top: 30px;
-  padding-bottom: 0px;
+  padding-top: 60px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-rSWfxkdIQI .mbr-text,
@@ -1882,7 +1882,7 @@ body {
 .cid-rT1FDKqPgM {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/jeremy-thomas-e0ahdsenmdg-unsplash-2000x1365.jpg");
+  background-image: url("../../../assets/images/o12-xk0dzsyv1ao-unsplash-4-2000x2758.jpeg");
 }
 .cid-rT1FDKqPgM .card-box {
   background-color: #ffffff;
@@ -1916,8 +1916,11 @@ body {
 .cid-rT1FDKqPgM .card-title {
   color: #1e807f;
 }
+.cid-rT1FDKqPgM P {
+  color: #232323;
+}
 .cid-rT1Io8YS0j {
-  padding-top: 30px;
+  padding-top: 120px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -2066,7 +2069,7 @@ body {
 .cid-rT16VuUvQp {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/jeremy-bishop-ewkxn5capa4-unsplash-1-2000x3000.jpeg");
+  background-image: url("../../../assets/images/o12-xk0dzsyv1ao-unsplash-3-2000x2758.jpeg");
 }
 .cid-rT16VuUvQp .mbr-section-subtitle {
   color: #767676;
