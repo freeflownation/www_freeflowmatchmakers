@@ -80,7 +80,7 @@
       }
     ],
     "uniqCompNum": 32,
-    "versionPublish": "4.10.7",
+    "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
       "colorText": "#424a4d",
@@ -584,11 +584,11 @@
               "background-color": "@bg-value"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#232323"
             },
             "H1": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#1e807f"
             },
             "H3": {
@@ -621,11 +621,11 @@
               "background-color": "@bg-value"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#232323"
             },
             "H1": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#1e807f"
             }
           },
@@ -892,11 +892,11 @@
               "background-color": "@bg-value"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#232323"
             },
             "H1": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#1e807f"
             },
             "H3": {
